@@ -4,51 +4,51 @@ using Models.Payment.PaymentSystem;
 using Models.Game.GameCharacter;
 using Models.Smart.SmartDevices;
 
-// Console.WriteLine("***********************");
-// Console.WriteLine("Task 1");
-// Shape circle = new Circle();
-// Shape rectangle = new Rectangle();
-// Shape triangle = new Triangle();
+Console.WriteLine("***********************");
+Console.WriteLine("Task 1");
+Shape circle = new Circle();
+Shape rectangle = new Rectangle();
+Shape triangle = new Triangle();
 
-// circle.Draw();
-// rectangle.Draw();
-// triangle.Draw();
-
-
-// Console.WriteLine("***********************");
-// Console.WriteLine("Task 2");
-
-// Notification email = new EmailNotification();
-// Notification sms = new SmsNotification();
-// Notification telegram = new TelegramNotification();
-
-// email.Send();
-// sms.Send();
-// telegram.Send();
+circle.Draw();
+rectangle.Draw();
+triangle.Draw();
 
 
-// Console.WriteLine("***********************");
-// Console.WriteLine("Task 3");
+Console.WriteLine("***********************");
+Console.WriteLine("Task 2");
 
-// Payment click = new ClickPayment();
-// Payment payme = new PaymePayment();
-// Payment cash = new CashPayment();
+Notification email = new EmailNotification();
+Notification sms = new SmsNotification();
+Notification telegram = new TelegramNotification();
 
-// click.Pay();
-// payme.Pay();
-// cash.Pay();
+email.Send();
+sms.Send();
+telegram.Send();
 
 
-// Console.WriteLine("***********************");
-// Console.WriteLine("Task 4");
+Console.WriteLine("***********************");
+Console.WriteLine("Task 3");
 
-// Character warrior = new Warrior();
-// Character archer = new Archer();
-// Character mage = new Mage();
+Payment click = new ClickPayment();
+Payment payme = new PaymePayment();
+Payment cash = new CashPayment();
 
-// warrior.Attack();
-// archer.Attack();
-// mage.Attack();
+click.Pay();
+payme.Pay();
+cash.Pay();
+
+
+Console.WriteLine("***********************");
+Console.WriteLine("Task 4");
+
+Character warrior = new Warrior();
+Character archer = new Archer();
+Character mage = new Mage();
+
+warrior.Attack();
+archer.Attack();
+mage.Attack();
 
 Console.WriteLine("***********************");
 Console.WriteLine("Task 5");
