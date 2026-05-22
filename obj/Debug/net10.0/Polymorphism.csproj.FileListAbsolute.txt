@@ -1,0 +1,14 @@
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\bin\Debug\net10.0\Polymorphism.exe
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\bin\Debug\net10.0\Polymorphism.deps.json
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\bin\Debug\net10.0\Polymorphism.runtimeconfig.json
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\bin\Debug\net10.0\Polymorphism.dll
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\bin\Debug\net10.0\Polymorphism.pdb
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\obj\Debug\net10.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfo.cs
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\obj\Debug\net10.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\obj\Debug\net10.0\Polymorphism.dll
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\obj\Debug\net10.0\refint\Polymorphism.dll
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\obj\Debug\net10.0\Polymorphism.pdb
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\obj\Debug\net10.0\Polymorphism.genruntimeconfig.cache
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\obj\Debug\net10.0\ref\Polymorphism.dll
