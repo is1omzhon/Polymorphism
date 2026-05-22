@@ -12,3 +12,4 @@ C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Po
 C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\obj\Debug\net10.0\Polymorphism.pdb
 C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\obj\Debug\net10.0\Polymorphism.genruntimeconfig.cache
 C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\obj\Debug\net10.0\ref\Polymorphism.dll
+C:\Users\islom_obbpec\OneDrive\Рабочий стол\Проекты С#\_DZ\Polymorphism\obj\Debug\net10.0\Polymorphism.sourcelink.json
